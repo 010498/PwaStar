@@ -1,6 +1,6 @@
 <?php 
 	
-	const BASE_URL = "http://localhost/";
+	const BASE_URL = "https://010498.github.io/starseguimiento/";
 	const LIBS = "Libraries/";
 	const VIEWS = "Views/";
 
