@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	<title>404 Error</title>
-	<link rel="stylesheet" href="<?= media()/error/error.css">
+	<link rel="stylesheet" href="<?= media() ?>error/error.css">
 </head>
 <body>
 	
