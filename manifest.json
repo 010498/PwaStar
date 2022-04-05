@@ -2,7 +2,6 @@
 	"theme_color": "#3367D6",
     "background_color": "#3367D6",
     "display": "standalone",
-    "scope": "/",
     "start_url": "/Home",
     "name": "PWA STAR SEGUIMIENTO Y CONTROL",
     "short_name": "PWA",
