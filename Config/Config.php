@@ -1,6 +1,6 @@
 <?php 
 	
-	const BASE_URL = "http://localhost/PwaStar/";
+	const BASE_URL = "https://010498.github.io/PwaStar/";
 	const LIBS = "Libraries/";
 	const VIEWS = "Views/";
 
