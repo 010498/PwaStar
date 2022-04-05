@@ -3,7 +3,7 @@
     "background_color": "#3367D6",
     "display": "standalone",
     "scope": "/",
-    "start_url": "index.php",
+    "start_url": "/Home",
     "name": "PWA STAR SEGUIMIENTO Y CONTROL",
     "short_name": "PWA",
     "icons": [
